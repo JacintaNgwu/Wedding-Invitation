@@ -1,0 +1,55 @@
+body {
+  background-color: #f9f9f9;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.container {
+  background-image: url(images/istockphoto-909318430-612x612.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 600px;
+  border-radius: 15px 240px 0 0;
+  box-shadow: 12px 13px 14px rgba(0, 0, 0, 0.9);
+}
+
+.pic {
+  width: 70%;
+  height: 50%;
+  margin-top: 40px;
+  border-radius: 8px 90px;
+  box-shadow: 2px 2px 10px 3px rgba(0, 0, 0, 0.5);
+}
+
+span {
+  color: #f00;
+}
+
+h2 {
+  font-size: 54px;
+  font-family: sans-serif;
+}
+
+.title {
+  margin-top: 50px;
+  font-size: 40px;
+  border-radius: 8px 90px;
+  box-shadow: 2px 2px 10px 3px rgba(0, 0, 0, 0.5);
+}
+
+.detail {
+  margin-bottom: 20px;
+}
+
+.details {
+  border-radius: 8px;
+  box-shadow: 2px 2px 10px 3px rgba(0, 0, 0, 0.5);
+}
+
+p {
+  font-size: 18px;
+  padding: 5px;
+}
